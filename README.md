@@ -1,9 +1,9 @@
-# Gaussian Splat Guide
+# Gaussian Splatting Guide
 A guide on how to create Gaussian Splats for real-time applications 
 
 <img src="media/Guassian Splat 2.PNG" height="400">
 
-## Gausian Splat Introduction 
+## Gaussian Splatting Introduction 
 In the evolving landscape of mixed and virtual reality, the need for fully immersive, high detailed environments is great. Gaussian Splatting was a technique revitalised for real time rendering as of Siggraph 2023. This marked a pivotal advancement in the way we could view 3D data.
 
 Unlike traditional rasterization methods that rely on a large array of vertices and faces, Gaussian Splatting offers a new way of representing 3D objects and scenes by applying the use of mathematical functions to represent 3D data. This approach, is deeply benefited by machine learning, to allow for  algorithm to optimise the gaussian representations to best represent the data while reducing the stress on the rendering system. This method allows for even high level of detail and realism at a lower cost to render times, greatly improving on convetional rendering techniques. 
