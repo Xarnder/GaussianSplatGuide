@@ -16,7 +16,7 @@ Gaussian Slatting is best used for scenes and objects that require a high comple
 
 ## 1.	Image Acquisition
    ### 1.1 Take Photos
-   *   Start by capturing a series of images of your subject. Aim for a wide range of angles to get a comprehensive view.
+   -   Start by capturing a series of images of your subject. Aim for a wide range of angles to get a comprehensive view.
    ### 1.2   Recording Technique
    *   Ideally, record a continuous video while walking around the subject. Keep your pace steady and even to ensure consistent angles throughout the scene.
    ### 1.3 Focus on Details
