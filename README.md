@@ -1,14 +1,11 @@
 # GaussianSplatGuide
 A guide on how to create Gaussian Splats for real-time applications 
 
-
-
-# AR Gaussian Splatting for iOS & Metal 
-
-<img src="media/Guassian Splat 2.PNG" height="200">
+<img src="media/Guassian Splat 2.PNG" height="400">
 
 ## About 
-A buggy + slow AR gaussian splat renderer for iOS + Metal. 
+Guide based on the tool made by cclaan
+- [Original Gaussian Splatting Tool]([https://github.com/graphdeco-inria/gaussian-splatting/](https://github.com/laanlabs/metal-splats))
 Based on several existing projects:
 - [Original Gaussian Splatting Repo](https://github.com/graphdeco-inria/gaussian-splatting/)
 - [Unity Gaussian Splatting](https://github.com/aras-p/UnityGaussianSplatting)
