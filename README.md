@@ -16,23 +16,23 @@ Gaussian Slatting is best used for scenes and objects that require a high comple
 
 ## &nbsp;1.	Image Acquisition
 <br>
-&nbsp;&nbsp;&nbsp;1.1 Take Photos
+### &nbsp;&nbsp;&nbsp;1.1 Take Photos
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Start by capturing a series of images of your subject. Aim for a wide range of angles to get a comprehensive view.
 <br>
-&nbsp;&nbsp;&nbsp;1.2   Recording Technique
+### &nbsp;&nbsp;&nbsp;1.2   Recording Technique
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ideally, record a continuous video while walking around the subject. Keep your pace steady and even to ensure consistent angles throughout the scene.
 <br>
-&nbsp;&nbsp;&nbsp;1.3 Focus on Details
+### &nbsp;&nbsp;&nbsp;1.3 Focus on Details
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pay special attention to the undersides of objects, which are often missed at standard viewing heights.
 <br>
-&nbsp;&nbsp;&nbsp;1.4 Control Motion Blur
+### &nbsp;&nbsp;&nbsp;1.4 Control Motion Blur
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maintain a moderate pace while recording to avoid motion blur, which could compromise the accuracy of your Gaussian Splat.
 <br>
-&nbsp;&nbsp;&nbsp;1.5 Ensure Consistency
+### &nbsp;&nbsp;&nbsp;1.5 Ensure Consistency
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ensure uniformity across all frames, fix your camera settings before starting. This includes the exposure, aperture, ISO, and focal length settings to avoid visual inconsistencies in the final product.
 <br>
