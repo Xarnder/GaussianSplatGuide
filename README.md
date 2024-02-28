@@ -4,14 +4,18 @@ A guide on how to create Gaussian Splats for real-time applications
 <img src="media/Guassian Splat 2.PNG" height="400">
 
 ## Guide to create your own gaussian splats
-There are several [blog posts](https://www.reshot.ai/3d-gaussian-splatting) on how to train your own models from a set of images. 
-The output PLY model is what you want to keep ( e.g. 'iteration_30000/point_cloud.ply' ) 
-The included models were trained on google colab with an A100 GPU. 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I8T2zlE7fQK06uNfezr4tOa_5xSq9XIg?usp=sharing) 
 
 ## Demo Video of Results
 [Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ") <br>
+<br>
 [![Custom Thumbnail](https://github.com/Xarnder/GaussianSplatGuide/raw/main/media/Guassian%20Splat%2012.PNG)](https://youtu.be/jjLMmTkjSHk?si=6JiZsKZV7QIY5a5o)
 
 
