@@ -7,11 +7,13 @@ A guide on how to create Gaussian Splats for real-time applications
 
 
 ## Guide to create your own gaussian splats
+After clicking the Colab link you'll see a code cell that has these lines at the top of it.
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+zip_file_path = '/content/drive/MyDrive/nerf/'  # Path to the folder containing the zip file
+zip_file_name = 'lego.zip'  # Name of the zip file
 ```
+Change '/content/drive/MyDrive/nerf/' to point to folder containing your zip folder on your google drive.
+Then change 'lego.zip' to the name of your zip file
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) 
