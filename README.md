@@ -5,7 +5,7 @@ A guide on how to create Gaussian Splats for real-time applications
 
 # AR Gaussian Splatting for iOS & Metal 
 
-<img src="media/lego-thumb.jpg" height="200">
+<img src="media/Guassian Splat 2.PNG" height="200">
 
 ## About 
 A buggy + slow AR gaussian splat renderer for iOS + Metal. 
