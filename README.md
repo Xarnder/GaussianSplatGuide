@@ -35,7 +35,35 @@ To generate a Gaussian Splat from captured imagery, follow these easy steps:
  
 
 ## 2.	Image Extraction and Preparation
- * Following the previous step is important that the format of the images is correct for the process to work properly. This can be efficiently accomplished by using a smartphone to record a video and then transferring the footage to an editing software such as Adobe Premiere Pro. You may need to attach a wire between your phone and computer and allow them to access each other's data. In Premier Pro adjust the export settings to conform to the preferred resolution of 980x545 pixels for this Gaussian Splatting Process. The next step is to Establish a precise naming convention for the image data set. Starting from “00001” and ascending sequentially, ensuring that each numerical name has 5 digits. The total number of images will directly influence the duration of the time needed to train the model. Approximately 500 images are a good number of images for this process. This can be achieved by slowing down or footage to a certain length and exporting a set frame rate. For example, if you want 500 images you could slow down your footage to 20 seconds and export your images at 25fps as a jpeg. Prepare toy dataset by also organising the images to a set file structure. Within a suitably named directory, create a directory inside it named ‘input’ folder. Then compress the folder into a zip archive for easier transfer later.
+To ensure your images are correctly formatted for the Gaussian Splatting process, follow these detailed steps:
+
+*   **Step 1: Video Recording**
+    
+    *   Use a smartphone to capture the video of your subject. This video will later be converted into a series of images.
+*   **Step 2: Transfer Footage**
+    
+    *   Connect your smartphone to your computer using a USB cable. Allow data access between your phone and computer to transfer the video footage.
+*   **Step 3: Editing Software**
+    
+    *   Import the video into an editing software, such as Adobe Premiere Pro, for processing.
+*   **Step 4: Adjust Export Settings**
+    
+    *   In Premiere Pro, set the export resolution to 980x545 pixels, which is optimal for the Gaussian Splatting process.
+*   **Step 5: Naming Convention**
+    
+    *   Establish a precise naming system for your images. Start with “00001” and increase sequentially, making sure each name consists of 5 digits to maintain order.
+*   **Step 6: Determine Image Quantity**
+    
+    *   The total number of images affects the model training time. Aim for about 500 images for efficient processing.
+*   **Step 7: Export Images**
+    
+    *   Adjust your video's playback speed to match the desired number of frames (images). For instance, to obtain 500 images, you could slow your footage down to 20 seconds and export at a frame rate of 25 frames per second (fps) in JPEG format.
+*   **Step 8: Organize Dataset**
+    
+    *   Arrange your images within a structured file system. Inside a directory with a relevant name, create a subdirectory named ‘input’.
+*   **Step 9: Compress for Transfer**
+    
+    *   Compress the folder containing your organized images into a zip archive to facilitate easier transfer and processing later on.
 ## 3. Image Data Set Upload
  * To progress to the next stage of this process you will need to login into your Google Drive and upload the zip file. Then navigate to the Google Colab at this link: colmap_gaussian_splatting_colab.ipynb - Colaboratory (google.com). At the top of the page press ‘copy to drive’ for personal access. The next stage involves linking your Google Drive to the Google Notebook. To do this create a new cell and input and run these commands.
 ## 4.	Model Training
