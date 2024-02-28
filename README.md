@@ -65,9 +65,10 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
     
     *   Compress the folder containing your organized images into a zip archive to facilitate easier transfer and processing later on.
 ## 3. Image Data Set Upload
- * To progress to the next stage of this process you will need to login into your Google Drive and upload the zip file. Then navigate to the Google Colab at this link: colmap_gaussian_splatting_colab.ipynb - Colaboratory (google.com). At the top of the page press ‘copy to drive’ for personal access. The next stage involves linking your Google Drive to the Google Notebook. To do this create a new cell and input and run these commands.
+ * To progress to the next stage of this process you will need to login into your Google Drive and upload the zip file. After login into Google Drive drag and drop your zip folder into Google Drive window.
 ## 4.	Model Training
- * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) button     After clicking the Colab link you'll see a code cell that has these lines at the top of it.
+*    **Step1: Change Zip Path**
+    * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) button. After clicking the Colab link you'll see a code cell that has these lines at the top of it.
    ```
    zip_file_path = '/content/drive/MyDrive/nerf/'  # Path to the folder containing the zip file
    zip_file_name = 'lego.zip'  # Name of the zip file
