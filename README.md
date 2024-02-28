@@ -11,8 +11,8 @@ The included models were trained on google colab with an A100 GPU.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I8T2zlE7fQK06uNfezr4tOa_5xSq9XIg?usp=sharing) 
 
 ## Demo Video of Results
-[Watch on YouTube](https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ) <br>
-[![youtube-link]()](https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ)
+[Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ") <br>
+[![youtube-link](media/Guassian Splat 2.PNG)](https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ)
 
 scene credit: Bournemouth University Poole Gateway Desk [Bournemouth University NCCA](https://www.bournemouth.ac.uk/)
 
