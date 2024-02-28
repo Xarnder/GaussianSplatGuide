@@ -12,7 +12,7 @@ The included models were trained on google colab with an A100 GPU.
 
 ## Demo Video of Results
 [Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ") <br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ/0.jpg)](https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jjLMmTkjSHk&ab_channel=XanderWiles/0.jpg)](https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ)
 
 scene credit: Bournemouth University Poole Gateway Desk [Bournemouth University NCCA](https://www.bournemouth.ac.uk/)
 
