@@ -7,6 +7,9 @@ A guide on how to create Gaussian Splats for real-time applications
 
 
 ## Guide to create your own gaussian splats
+
+Next click the Open in Colab button bellow
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) 
 After clicking the Colab link you'll see a code cell that has these lines at the top of it.
 ```
 zip_file_path = '/content/drive/MyDrive/nerf/'  # Path to the folder containing the zip file
@@ -16,7 +19,6 @@ Change '/content/drive/MyDrive/nerf/' to point to folder containing your zip fol
 Then change 'lego.zip' to the name of your zip file
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) 
 
 ## Demo Video of Results
 [Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ") <br>
