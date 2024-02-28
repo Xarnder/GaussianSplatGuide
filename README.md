@@ -81,11 +81,13 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
    ```
    zip_file_name = 'lego.zip'  # Name of the zip file
    ```
+*   **Step 4: Run the code**
+    * After changing the path and the name of the zip file you can finally press the run cell play button   
 
 
 
 ## Demo Video of Results
-[Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ") <br>
+[Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=6JiZsKZV7QIY5a5o") <br>
 <br>
 [![Custom Thumbnail](https://github.com/Xarnder/GaussianSplatGuide/raw/main/media/Guassian%20Splat%2012.PNG)](https://youtu.be/jjLMmTkjSHk?si=6JiZsKZV7QIY5a5o)
 
