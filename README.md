@@ -14,9 +14,9 @@ Gaussian Slatting is best used for scenes and objects that require a high comple
 
 ## Guide to creating your own Gaussian Splats
 
-&nbsp;1.	Image Acquisition
+## &nbsp;1.	Image Acquisition
 <br>
-&nbsp;&nbsp;&nbsp;### 1.1 Take Photos
+&nbsp;&nbsp;&nbsp;1.1 Take Photos
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Start by capturing a series of images of your subject. Aim for a wide range of angles to get a comprehensive view.
 <br>
