@@ -3,6 +3,9 @@ A guide on how to create Gaussian Splats for real-time applications
 
 <img src="media/Guassian Splat 2.PNG" height="400">
 
+## Gausian Splat Introduction 
+
+
 ## Guide to create your own gaussian splats
 ```
 function test() {
@@ -11,7 +14,7 @@ function test() {
 ```
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I8T2zlE7fQK06uNfezr4tOa_5xSq9XIg?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) 
 
 ## Demo Video of Results
 [Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ") <br>
