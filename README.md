@@ -10,6 +10,11 @@ The included models were trained on google colab with an A100 GPU.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I8T2zlE7fQK06uNfezr4tOa_5xSq9XIg?usp=sharing) 
 
+## Demo Video of Results
+[Watch on YouTube](https://youtu.be/2th0ejgNu4U) <br>
+[![youtube-link](https://github.com/laanlabs/metal-splats/assets/174185/5b73c660-8466-4b5d-b68d-2a44c0d1aff5)](https://youtu.be/2th0ejgNu4U)
+
+scene credit: Bournemouth University Poole Gateway Desk [Bournemouth University NCCA](https://www.bournemouth.ac.uk/)
 
 ## About 
 Guide based on the tool made by cclaan
@@ -24,11 +29,7 @@ Guide based on the tool made by cclaan
 Uses [Satin + Forge](https://github.com/Hi-Rez/Satin) for AR + 3d viewer ( by [@rezaali](https://twitter.com/RezaAli) )
  
 
-## Demo Video of Results
-[Watch on YouTube](https://youtu.be/2th0ejgNu4U) <br>
-[![youtube-link](https://github.com/laanlabs/metal-splats/assets/174185/5b73c660-8466-4b5d-b68d-2a44c0d1aff5)](https://youtu.be/2th0ejgNu4U)
 
-scene credit: Bournemouth University Poole Gateway Desk [Bournemouth University NCCA](https://www.bournemouth.ac.uk/)
 
 ## License(s)
 Parts of the code are based on the original Gaussian-Splatting software and is governed by the [Gaussian-Splatting License](https://github.com/graphdeco-inria/gaussian-splatting/blob/main/LICENSE.md), which can be found in the [LICENSE]() file in this repository. The original software was developed by Inria and MPII.
