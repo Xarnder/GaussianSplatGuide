@@ -1,4 +1,4 @@
-# GaussianSplatGuide
+# Gaussian Splat Guide
 A guide on how to create Gaussian Splats for real-time applications 
 
 <img src="media/Guassian Splat 2.PNG" height="400">
