@@ -15,15 +15,13 @@ A guide on how to create Gaussian Splats for real-time applications
 3.	## Image Data Set Upload
  * To progress to the next stage of this process you will need to login into your Google Drive and upload the zip file. Then navigate to the Google Colab at this link: colmap_gaussian_splatting_colab.ipynb - Colaboratory (google.com). At the top of the page press ‘copy to drive’ for personal access. The next stage involves linking your Google Drive to the Google Notebook. To do this create a new cell and input and run these commands.
 4.	## Model Training
- * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) button
-<br>
-After clicking the Colab link you'll see a code cell that has these lines at the top of it.
-```
-zip_file_path = '/content/drive/MyDrive/nerf/'  # Path to the folder containing the zip file
-zip_file_name = 'lego.zip'  # Name of the zip file
-```
-Change '/content/drive/MyDrive/nerf/' to point to folder containing your zip folder on your google drive.
-Then change 'lego.zip' to the name of your zip file
+ * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) button     After clicking the Colab link you'll see a code cell that has these lines at the top of it.
+   ```
+   zip_file_path = '/content/drive/MyDrive/nerf/'  # Path to the folder containing the zip file
+   zip_file_name = 'lego.zip'  # Name of the zip file
+   ```
+   Change '/content/drive/MyDrive/nerf/' to point to folder containing your zip folder on your google drive.
+   Then change 'lego.zip' to the name of your zip file
 
 
 
