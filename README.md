@@ -70,14 +70,17 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 1: Open Colab Page**
     * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qsrRkm4rLCxQGKGTpKqK7u_iHNLjGFRc?usp=sharing) button.
 *   **Step 2: Change Zip Path**
-    * After clicking the Colab link you'll see a code cell that has these lines at the top of it.
+    * After clicking the Colab link you'll see a code cell that has this line at the top of it.
+    * Change '/content/drive/MyDrive/nerf/' to point to folder containing your zip folder on your google drive.
    ```
    zip_file_path = '/content/drive/MyDrive/nerf/'  # Path to the folder containing the zip file
+   ```
+*   **Step 3: Change Zip File Name**
+    * Next you'll see a line just bellow  it.
+    * Change 'lego.zip' to the name of your zip file
+   ```
    zip_file_name = 'lego.zip'  # Name of the zip file
    ```
-*  Change '/content/drive/MyDrive/nerf/' to point to folder containing your zip folder on your google drive.
-*   **Step 3: Change Zip File Name**
-    *  Then change 'lego.zip' to the name of your zip file
 
 
 
