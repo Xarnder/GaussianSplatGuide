@@ -14,17 +14,17 @@ Gaussian Slatting is best used for scenes and objects that require a high comple
 
 ## Guide to creating your own Gaussian Splats
 
-&nbsp; ## 1.	Image Acquisition
+&nbsp;1.	Image Acquisition
 &nbsp;&nbsp;&nbsp;### 1.1 Take Photos
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*   Start by capturing a series of images of your subject. Aim for a wide range of angles to get a comprehensive view.
-&nbsp;&nbsp;&nbsp;### 1.2   Recording Technique
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*   Ideally, record a continuous video while walking around the subject. Keep your pace steady and even to ensure consistent angles throughout the scene.
-&nbsp;&nbsp;&nbsp;### 1.3 Focus on Details
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*   Pay special attention to the undersides of objects, which are often missed at standard viewing heights.
-&nbsp;&nbsp;&nbsp;### 1.4 Control Motion Blur
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*   Maintain a moderate pace while recording to avoid motion blur, which could compromise the accuracy of your Gaussian Splat.
-&nbsp;&nbsp;&nbsp;### 1.5   Ensure Consistency
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*   ensure uniformity across all frames, fix your camera settings before starting. This includes the exposure, aperture, ISO, and focal length settings to avoid visual inconsistencies in the final product.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Start by capturing a series of images of your subject. Aim for a wide range of angles to get a comprehensive view.
+&nbsp;&nbsp;&nbsp;1.2   Recording Technique
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ideally, record a continuous video while walking around the subject. Keep your pace steady and even to ensure consistent angles throughout the scene.
+&nbsp;&nbsp;&nbsp;1.3 Focus on Details
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pay special attention to the undersides of objects, which are often missed at standard viewing heights.
+&nbsp;&nbsp;&nbsp;1.4 Control Motion Blur
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maintain a moderate pace while recording to avoid motion blur, which could compromise the accuracy of your Gaussian Splat.
+&nbsp;&nbsp;&nbsp;1.5 Ensure Consistency
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ensure uniformity across all frames, fix your camera settings before starting. This includes the exposure, aperture, ISO, and focal length settings to avoid visual inconsistencies in the final product.
 ## 2.	Image Extraction and Preparation
  * Following the previous step is important that the format of the images is correct for the process to work properly. This can be efficiently accomplished by using a smartphone to record a video and then transferring the footage to an editing software such as Adobe Premiere Pro. You may need to attach a wire between your phone and computer and allow them to access each other's data. In Premier Pro adjust the export settings to conform to the preferred resolution of 980x545 pixels for this Gaussian Splatting Process. The next step is to Establish a precise naming convention for the image data set. Starting from “00001” and ascending sequentially, ensuring that each numerical name has 5 digits. The total number of images will directly influence the duration of the time needed to train the model. Approximately 500 images are a good number of images for this process. This can be achieved by slowing down or footage to a certain length and exporting a set frame rate. For example, if you want 500 images you could slow down your footage to 20 seconds and export your images at 25fps as a jpeg. Prepare toy dataset by also organising the images to a set file structure. Within a suitably named directory, create a directory inside it named ‘input’ folder. Then compress the folder into a zip archive for easier transfer later.
 ## 3. Image Data Set Upload
