@@ -1,7 +1,7 @@
 # Gaussian Splatting Guide
 A guide on how to create Gaussian Splats for real-time applications 
 
-Special thanks to my supervise Hongchuan Yu 
+Special thanks to my superviser Hongchuan Yu 
 
 <img src="media/Guassian Splat 2.PNG" height="400">
 
