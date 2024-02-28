@@ -14,6 +14,16 @@ Gaussian Slatting is best used for scenes and objects that require a high comple
 
 ## Guide to creating your own Gaussian Splats
 
+&nbsp;1. Dog  
+&nbsp;&nbsp;&nbsp;German Shepherd: The German Shepherd Dog (GSD, also known as an Alsatian), (German: Deutscher Schäferhund) is a breed of large-sized dog that originated in Germany.  
+&nbsp;&nbsp;&nbsp;1.2. Belgian Shepherd  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1. Malinois  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2. Groenendael  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.3. Tervuren  
+&nbsp;2. Cat  
+&nbsp;&nbsp;&nbsp;2.1. Siberian  
+&nbsp;&nbsp;&nbsp;2.2. Siamese
+
 ## 1.	Image Acquisition
 ### 1.1 Take Photos
 *   Start by capturing a series of images of your subject. Aim for a wide range of angles to get a comprehensive view.
