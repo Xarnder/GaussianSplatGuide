@@ -12,7 +12,8 @@ The included models were trained on google colab with an A100 GPU.
 
 ## Demo Video of Results
 [Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ") <br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jjLMmTkjSHk&ab/0.jpg)](https://youtu.be/jjLMmTkjSHk?si=26KtQf-sPShTw1zJ)
+[![Custom Thumbnail](https://github.com/Xarnder/GaussianSplatGuide/raw/main/media/Guassian%20Splat%2012.PNG)](https://youtu.be/jjLMmTkjSHk?si=6JiZsKZV7QIY5a5o)
+
 
 scene credit: Bournemouth University Poole Gateway Desk [Bournemouth University NCCA](https://www.bournemouth.ac.uk/)
 
