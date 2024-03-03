@@ -83,15 +83,18 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
    ```
 *   **Step 3: Run Install Cell**
-    * Next you'll see a bigger code cell just below it.
-    * Run the cell by pressing the play button next to it
+    * Next you'll see a bigger code cell just below it titled "INSTALL CELL"
+    * Run that cell by pressing the play button next to it
 *   **Step 4: Upload Zip**
-    * In the left panel click the folder icon and locate the /content/gaussian-splatting/nerf1 folder
+    * In the left panel click the folder icon to refresh the folder viewer
+    * Then locate the /content/gaussian-splatting/nerf1 folder
     * Drag your zip file from your local computer file explorer into the folder titled "nerf1"
     <img src="media/nerf1.png" height="350">
+        * **IMPORTANT NOTE!** You won't see this folder until after you run the "Install Cell"  and you refresh the folder viewer by pressing the icon with the folder and the refresh arrow
+
 *  **Step 4: Run Training Code**
-    * Finally run the last cell to start generating your gaussian splat
-    * **IMPORTANT!** You may have to regularly click the anywhere on teh notebook page to stop the session from disconeccting due to inactivity
+    * Finally run the last cell titled "#GENERATE CELL" to start generating your Gaussian splat
+    * **IMPORTANT!** You may have to regularly click anywhere on the notebook page to stop the session from disconnecting due to inactivity
 
 
 
