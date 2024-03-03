@@ -100,7 +100,7 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     * **IMPORTANT!** You may have to regularly click anywhere on the notebook page to stop the session from disconnecting due to inactivity
 *  **Step 5: Download Point Cloud**
     * Find and download the point cloud to your computer from /content/gaussian-splatting/nerf1/output/502acfe6-5/point_cloud/iteration_30000/point_cloud.ply
-    * View it using [Viewer Website]("https://antimatter15.com/splat/") and by dragging and dropping the point cloud into the webpage viewer
+    * View it using [Viewer Website](https://antimatter15.com/splat/) and by dragging and dropping the point cloud into the webpage viewer
 
 
 
