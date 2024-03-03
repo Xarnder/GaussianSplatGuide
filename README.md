@@ -86,7 +86,7 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
 *   **Step 4: Upload Zip**
     * In the left panel click the folder icon and locate the /content/gaussian-splatting/nerf1 folder
     * Drag your zip file from your local computer file explorer into the folder titled "nerf1"
-    <img src="media/Guassian Splat 2.PNG" height="100">
+    <img src="media/nerf1.png" height="200">
 *  **Step 4: Run Training Code**
     * Finally run the last cell to start generating your gaussian splat
     * **IMPORTANT!** You may have to regularly click the anywhere on teh notebook page to stop the session from disconeccting due to inactivity
