@@ -92,7 +92,7 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     <img src="media/nerf1.png" height="350">
   <br>
     * **IMPORTANT NOTE!** You won't see this folder until after you run the "Install Cell"  and you refresh the folder viewer by pressing the icon with the folder and the refresh arrow
-
+    <br>
 *  **Step 4: Run Training Code**
     * Finally run the last cell titled "#GENERATE CELL" to start generating your Gaussian splat
     * **IMPORTANT!** You may have to regularly click anywhere on the notebook page to stop the session from disconnecting due to inactivity
