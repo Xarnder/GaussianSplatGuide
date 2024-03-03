@@ -67,6 +67,8 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 8: Organize Dataset**
     
     *   Arrange your images within a structured file system. Inside a directory with a relevant name, create a subdirectory named ‘input’.
+    *   The file structure should look like this
+    *   <img src="media/fileStructure.png" height="150">
 *   **Step 9: Compress for Transfer**
     
     *   Compress the folder containing your organized images into a zip archive to facilitate easier transfer and processing later on.
