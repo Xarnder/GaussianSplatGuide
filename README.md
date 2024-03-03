@@ -91,7 +91,7 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     * Drag your zip file from your local computer file explorer into the folder titled "nerf1"
     <img src="media/nerf1.png" height="350">
     <br>
-    **IMPORTANT NOTE!** You won't see this folder until after you run the "Install Cell"  and you refresh the folder viewer by pressing the icon with the folder and the refresh arrow
+    IMPORTANT NOTE! - You won't see this folder until after you run the "Install Cell"  and you refresh the folder viewer by pressing the icon with the folder and the refresh arrow
     <br>
     <img src="media/refresh.png" height="100">
 
