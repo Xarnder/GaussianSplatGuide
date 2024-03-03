@@ -73,7 +73,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 ## 3.	Model Training
 *   **Step 1: Open Colab Page**
         * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17yOFCtqnYeVykm1wPnYtSuPoN3XK80_Y?usp=sharing) button.
-*   **Step 2: Change Zip Path**
+*   **Step 2: Change Zip Name**
     * After clicking the Colab link you'll see a code cell that has this line at the top of it.
     * Change 'chairScene.zip' to point to the name of your zip
     * And then run the cell by pressing the play button next to it
