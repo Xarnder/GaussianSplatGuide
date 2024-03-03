@@ -70,25 +70,25 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 9: Compress for Transfer**
     
     *   Compress the folder containing your organized images into a zip archive to facilitate easier transfer and processing later on.
-## 3. Image Data Set Upload
- * To progress to the next stage of this process you will need to login into your Google Drive and upload the zip file. After login into Google Drive drag and drop your zip folder into Google Drive window.
-## 4.	Model Training
+## 3.	Model Training
 *   **Step 1: Open Colab Page**
         * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17yOFCtqnYeVykm1wPnYtSuPoN3XK80_Y?usp=sharing) button.
 *   **Step 2: Change Zip Path**
     * After clicking the Colab link you'll see a code cell that has this line at the top of it.
-    * Change '/content/drive/MyDrive/nerf/' to point to folder containing your zip folder on your google drive.
+    * Change 'chairScene.zip' to point to the name of your zip
+    * And then run the cell by pressing the play button next to it
    ```
-   zip_file_path = '/content/drive/MyDrive/nerf/'  # Path to the folder containing the zip file
+zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
    ```
-*   **Step 3: Change Zip File Name**
-    * Next you'll see a line just bellow  it.
-    * Change 'lego.zip' to the name of your zip file
-   ```
-   zip_file_name = 'lego.zip'  # Name of the zip file
-   ```
-*   **Step 4: Run the code**
-    * After changing the path and the name of the zip file you can finally press the run cell play button   
+*   **Step 3: Run Install Cell**
+    * Next you'll see a bigger code cell just below it.
+    * Run the cell by pressing the play button next to it
+*   **Step 4: Upload Zip**
+    * In the left panel click the folder icon and locate the /content/gaussian-splatting/nerf1 folder
+    * Drag your zip file from your local computer file explorer into the folder titled "nerf1"
+*  **Step 4: Run Training Code**
+    * Finally run the last cell to start generating your gaussian splat
+    * **IMPORTANT!** You may have to regularly click the anywhere on teh notebook page to stop the session from disconeccting due to inactivity
 
 
 
