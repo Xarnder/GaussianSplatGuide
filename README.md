@@ -61,10 +61,10 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 6: Determine Image Quantity**
     
     *   The total number of images affects the model training time. Aim for about 500 images for efficient processing.
-    *   $\sqrt{3x-1}+(1+x)^2$
 *   **Step 7: Export Images**
     
     *   Adjust your video's playback speed to match the desired number of frames (images). For instance, to obtain 500 images, you could slow your footage down to 20 seconds and export at a frame rate of 25 frames per second (fps) in JPEG format.
+    *   $Total Images = Video Length * Frames Per Second
 *   **Step 8: Organize Dataset**
     
     *   Arrange your images within a structured file system. Inside a directory with a relevant name, create a subdirectory named ‘input’.
