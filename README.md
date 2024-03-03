@@ -74,7 +74,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
  * To progress to the next stage of this process you will need to login into your Google Drive and upload the zip file. After login into Google Drive drag and drop your zip folder into Google Drive window.
 ## 4.	Model Training
 *   **Step 1: Open Colab Page**
-    * Next click this [![Open In Colab](https://colab.research.google.com/drive/17yOFCtqnYeVykm1wPnYtSuPoN3XK80_Y?usp=sharing) button.
+    * Next click this [![Open In Colab](https://colab.research.google.com/drive/17yOFCtqnYeVykm1wPnYtSuPoN3XK80_Y?usp=sharing)] button.
 *   **Step 2: Change Zip Path**
     * After clicking the Colab link you'll see a code cell that has this line at the top of it.
     * Change '/content/drive/MyDrive/nerf/' to point to folder containing your zip folder on your google drive.
