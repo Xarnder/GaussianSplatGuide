@@ -97,7 +97,7 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
 
 *  **Step 4: Run Training Code**
     * Finally run the last cell titled "#GENERATE CELL" to start generating your Gaussian splat
-    * **IMPORTANT!** You may have to regularly click anywhere on the notebook page to stop the session from disconnecting due to inactivity
+   **IMPORTANT!** You may have to regularly click anywhere on the notebook page to stop the session from disconnecting due to inactivity
 
 
 
