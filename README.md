@@ -85,10 +85,8 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *  **Step 2: Change to GPU**
     * Press "Runtime" ->  "change runtime type" and then select "T4 GPU"
     * **IMPORTANT** If you do not select the GPU here the CUDA will not be able to install
-  <br>
-      <img src="media/changeruntime.png" height="300">
-      <img src="media/gpu.png" height="300">
-  <br>
+    * <img src="media/changeruntime.png" height="300">
+    <img src="media/gpu.png" height="300">
 *   **Step 3: Run Install Cell**
     * Next you'll see a bigger code cell just below it titled "INSTALL CELL"
     * Run that cell by pressing the play button next to it
