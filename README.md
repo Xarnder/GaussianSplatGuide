@@ -4,7 +4,7 @@ A guide on how to create Gaussian Splats for real-time applications
 Special thanks to my supervisor Hongchuan Yu 
 
 <img src="media/Guassian Splat 2.PNG" height="400">
-![](https://github.com/Xarnder/GaussianSplatGuide/media/suitcasesmall.gif)
+![](suitcasesmall.gif)
 
 
 ## Gaussian Splatting Introduction 
