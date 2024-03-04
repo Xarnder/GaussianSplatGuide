@@ -78,6 +78,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 1: Open Colab Page**
     * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S_zyDlc_qfJKIGtwBCiP1MSOE5aNQ71H?usp=sharing) button.
     * Press 'copy to drive' at the top
+    * (If you have a paid colab account that allows for better GPU, you should change to T4 or the other GPU now)
 *   **Step 2: Run Install Cell**
     * Next you'll see a bigger code cell just below it titled "INSTALL CELL"
     * Run that cell by pressing the play button next to it
