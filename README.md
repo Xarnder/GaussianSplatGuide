@@ -110,6 +110,8 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
    ```
 * **IMPORTANT!** You will have errors unzipping the zip if you do not wait for the zip file to finish uploading, please wait for the blue progress circle to complete before moving on to the next stage.
 * <img src="media/uploading.png" height="50">
+*    Check your file structure looks like this on your colab file viewer
+*    <img src="media/colabStructure.png" height="200">
 
 *  **Step 6: Run Training Code**
     * Finally run the last cell titled "#GENERATE CELL" to start generating your Gaussian splat
