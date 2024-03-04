@@ -75,7 +75,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
     *   Compress the folder containing your organized images into a zip archive to facilitate easier transfer and processing later on.
 ## 3.	Model Training
 *   **Step 1: Open Colab Page**
-        * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17yOFCtqnYeVykm1wPnYtSuPoN3XK80_Y?usp=sharing) button.
+        * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S_zyDlc_qfJKIGtwBCiP1MSOE5aNQ71H?usp=sharing) button.
 *   **Step 2: Change Zip Name**
     * After clicking the Colab link you'll see a code cell that has this line at the top of it.
     * Change 'chairScene.zip' to point to the name of your zip
