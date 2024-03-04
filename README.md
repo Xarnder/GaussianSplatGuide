@@ -1,7 +1,7 @@
 # Gaussian Splatting Guide
 A guide on how to create Gaussian Splats for real-time applications 
 
-Special thanks to my superviser Hongchuan Yu 
+Special thanks to my supervisor Hongchuan Yu 
 
 <img src="media/Guassian Splat 2.PNG" height="400">
 ![](https://github.com/Xarnder/GaussianSplatGuide/media/suitcasesmall.gif)
@@ -70,6 +70,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 8: Organize Dataset**
     
     *   Arrange your images within a structured file system. Inside a directory with a relevant name, create a subdirectory named ‘input’.
+    *   You must have a subfolder inside your original folder named "input" and inside input are your images 
     *   The file structure should look like this
     *   <img src="media/fileStructure.png" height="150">
 *   **Step 9: Compress for Transfer**
