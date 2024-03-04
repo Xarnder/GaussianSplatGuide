@@ -80,7 +80,8 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 2: Run Install Cell**
     * Next you'll see a bigger code cell just below it titled "INSTALL CELL"
     * Run that cell by pressing the play button next to it
-    * Wait for the cell to finishing running before moving onto the next step
+    * Wait for the cell to finishing running before moving on to the next step
+    * ( May take 5 - 15 minutes )
 *   **Step 3: Upload Zip**
     * In the left panel click the folder icon to refresh the folder viewer
     * Then locate the /content/gaussian-splatting/nerf1 folder
