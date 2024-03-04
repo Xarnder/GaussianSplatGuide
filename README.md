@@ -4,6 +4,7 @@ A guide on how to create Gaussian Splats for real-time applications
 Special thanks to my superviser Hongchuan Yu 
 
 <img src="media/Guassian Splat 2.PNG" height="400">
+![](media/suitcasesmall.gif)
 
 ## Gaussian Splatting Introduction 
 Gaussian Splatting has emerged as a revolutionary technique in the realm of computer graphics, particularly enhancing mixed and virtual reality experiences with its ability to render highly detailed, immersive environments. Originating as a revitalized method for real-time rendering presented at Siggraph 2023, Gaussian Splatting has significantly shifted the paradigm of 3D data visualization.
