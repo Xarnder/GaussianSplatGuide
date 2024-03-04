@@ -83,12 +83,12 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
     * (If you have a paid colab account that allows for better GPU, you should change to T4 or the other GPU now)
 *  **Step 2: Change to GPU**
     * Press "Runtime" ->  "change runtime type" and then select "T4 GPU"
-    * **IMPORTANT** If you do not select the GPU here the cuda will not be able to install
-      <img src="media/nerf1.png" height="350">
+    * **IMPORTANT** If you do not select the GPU here the CUDA will not be able to install
+      <img src="media/changeruntime.png" height="350">
 *   **Step 3: Run Install Cell**
     * Next you'll see a bigger code cell just below it titled "INSTALL CELL"
     * Run that cell by pressing the play button next to it
-    * Wait for the cell to finishing running before moving on to the next step
+    * Wait for the cell to finish running before moving on to the next step
     * ( May take 5 - 15 minutes )
 *   **Step 4: Upload Zip**
     * In the left panel click the folder icon to refresh the folder viewer
