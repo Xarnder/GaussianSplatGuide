@@ -74,7 +74,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
     
     *   Compress the folder containing your organized images into a zip archive to facilitate easier transfer and processing later on.
 ## 3.	Model Training
-**IMPORTANT** - If you google colab session is disrupted and disconnects your files may be removed
+**IMPORTANT** - If you google colab session is disrupted and disconnects your files may be removed, for best results open colab on desktop wired computer with constant stable internet connection
 *   **Step 1: Open Colab Page**
     * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S_zyDlc_qfJKIGtwBCiP1MSOE5aNQ71H?usp=sharing) button.
     * Press 'copy to drive' at the top
