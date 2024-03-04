@@ -109,7 +109,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
    ```
 * **IMPORTANT!** You will have errors unzipping the zip if you do not wait for the zip file to finish uploading, please wait for the blue progress circle to complete before moving on to the next stage.
-* <img src="media/uploading.png" height="100">
+* <img src="media/uploading.png" height="50">
 
 *  **Step 6: Run Training Code**
     * Finally run the last cell titled "#GENERATE CELL" to start generating your Gaussian splat
