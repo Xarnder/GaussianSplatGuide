@@ -76,10 +76,11 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 ## 3.	Model Training
 *   **Step 1: Open Colab Page**
         * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S_zyDlc_qfJKIGtwBCiP1MSOE5aNQ71H?usp=sharing) button.
-        * Press 'copy to drive' at the top
+    * Press 'copy to drive' at the top
 *   **Step 2: Run Install Cell**
     * Next you'll see a bigger code cell just below it titled "INSTALL CELL"
     * Run that cell by pressing the play button next to it
+    * Wait for the cell to finishing running before moving onto the next step
 *   **Step 3: Upload Zip**
     * In the left panel click the folder icon to refresh the folder viewer
     * Then locate the /content/gaussian-splatting/nerf1 folder
