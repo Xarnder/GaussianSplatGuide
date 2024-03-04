@@ -76,17 +76,10 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 ## 3.	Model Training
 *   **Step 1: Open Colab Page**
         * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S_zyDlc_qfJKIGtwBCiP1MSOE5aNQ71H?usp=sharing) button.
-*   **Step 2: Change Zip Name**
-    * After clicking the Colab link you'll see a code cell that has this line at the top of it.
-    * Change 'chairScene.zip' to point to the name of your zip
-    * And then run the cell by pressing the play button next to it
-   ```
-zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
-   ```
-*   **Step 3: Run Install Cell**
+*   **Step 2: Run Install Cell**
     * Next you'll see a bigger code cell just below it titled "INSTALL CELL"
     * Run that cell by pressing the play button next to it
-*   **Step 4: Upload Zip**
+*   **Step 3: Upload Zip**
     * In the left panel click the folder icon to refresh the folder viewer
     * Then locate the /content/gaussian-splatting/nerf1 folder
     * Drag your zip file from your local computer file explorer into the folder titled "nerf1"
@@ -95,6 +88,14 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     IMPORTANT NOTE! - You won't see this folder until after you run the "Install Cell"  and you refresh the folder viewer by pressing the icon with the folder and the refresh arrow
     <br>
     <img src="media/refresh.png" height="100">
+*   **Step 2: Change Zip Name**
+    * After clicking the Colab link you'll see a code cell that has this line at the top of it.
+    * Change 'chairScene.zip' to point to the name of your zip
+    * And then run the cell by pressing the play button next to it
+   ```
+zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
+   ```
+* **IMPORTANT!** You will have errors unzipping the zip if you do not wait for the zip file to upload, please wait for the blue progress circle to complete before moving onto the next stage
 
 *  **Step 4: Run Training Code**
     * Finally run the last cell titled "#GENERATE CELL" to start generating your Gaussian splat
