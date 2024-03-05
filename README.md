@@ -123,14 +123,16 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     * Finally run the last cell titled "#GENERATE CELL" to start generating your Gaussian splat
     * **IMPORTANT!** You may have to regularly click anywhere on the notebook page to stop the session from disconnecting due to inactivity
     * <img src="media/disconnected.png" height="200">
-*  **Step 7: Check it working correctly**
+*  **Step 7: Check it's working correctly**
 *  If it says "Exhaustive feature matching" that means it is currently doing the feature matching
 *  <img src="media/matching.png" height="200">
-*  If while running you see a lot of lines that say "Termination : No convergence" then that might be an indication something has gone wrong, and it is suggested you start again checking you completed the steps above carfully
+*  If while running you see a lot of lines that say "Termination : No convergence" then that might be an indication something has gone wrong, and it is suggested you start again checking you completed the steps above carefully
+*  <img src="media/bad.png" height="100">
 *  If it says "Termination : convergence" mostly then that is good.
+*  <img src="media/good.png" height="100">
 *  During the training process you will see a line at the bottom that says "Training Progress: 1% 430/30000..." this will give you an indication of how much of the training process is left
 *  The training is completed when it says "100%" and says 30000/30000, however at 23% and 7000/30000 it will save a lower quality quick version that you can download and check
-*  * <img src="media/started.png" height="200"><img src="media/finished.png" height="200">
+*  <img src="media/started.png" height="200"><img src="media/finished.png" height="200">
 *  **Step 8: Download Point Cloud**
     * Find and download the point cloud to your computer from /content/gaussian-splatting/nerf1/output/502acfe6-5/point_cloud/iteration_30000/point_cloud.ply
     * Right-click the three dots next to it and click download
@@ -138,6 +140,9 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     * It is also suggested that you change the name of the "point_cloud.ply" as soon as it is downloaded to avoid confusion later on 
     * View and edit it using [Gaussian Splatting Editor](https://playcanvas.com/supersplat/editor)
     * Or view it using [Gaussian Splatting Viewer](https://antimatter15.com/splat/) and by dragging and dropping the point cloud into the webpage viewer
+ 
+
+<img src="media/chair.png" height="500">
 
 
 
