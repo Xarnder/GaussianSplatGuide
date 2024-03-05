@@ -125,7 +125,7 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     * <img src="media/disconnected.png" height="200">
 *  **Step 7: Check it's working correctly**
 *  If it says "Exhaustive feature matching" that means it is currently doing the feature matching
-*  <img src="media/matching.PNG" height="200">
+*  <img src="media/matching.png" height="200">
 *  If while running you see a lot of lines that say "Termination : No convergence" then that might be an indication something has gone wrong, and it is suggested you start again checking you completed the steps above carefully
 *  <img src="media/bad.PNG" height="100">
 *  If it says "Termination : convergence" mostly then that is good.
