@@ -40,6 +40,7 @@ To generate a Gaussian Splat from captured imagery, follow these easy steps:
 *   **Step 5: Ensure Consistency**
     
     *   To ensure uniformity across all frames, fix your camera settings before starting. This includes the exposure, aperture, ISO, and focal length settings to avoid visual inconsistencies in the final product.
+    *   Ensure you do not use a too wide angled lens as the algorithm sometimes has trouble processing this into Gaussian splats
  
 
 ## 2.	Image Extraction and Preparation
@@ -57,6 +58,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 4: Adjust Export Settings**
     
     *   In Premiere Pro, set the export resolution to 980x545 pixels, which is optimal for the Gaussian Splatting process.
+    *   Make sure the image for mat says .jpg
 *   **Step 5: Naming Convention**
     
     *   Establish a precise naming system for your images. Start with “00001” and increase sequentially, making sure each name consists of 5 digits to maintain order.
@@ -78,9 +80,11 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
     *   Compress the folder containing your organized images into a zip archive to facilitate easier transfer and processing later on.
 ## 3.	Model Training
 **IMPORTANT** - If you google colab session is disrupted and disconnects your files may be removed, for best results open colab on desktop wired computer with constant stable internet connection
+*   You may also find you hit  GPU usage limit if you use the GPU for too long
 *   **Step 1: Open Colab Page**
     * Next click this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S_zyDlc_qfJKIGtwBCiP1MSOE5aNQ71H?usp=sharing) button.
     * Press 'copy to drive' at the top
+    * Rename you google colab notebook to something of your choosing.
     * (If you have a paid colab account that allows for better GPU, you should change to T4 or the other GPU now)
 *  **Step 2: Change to GPU**
     * Press "Runtime" ->  "change runtime type" and then select "T4 GPU"
@@ -119,9 +123,18 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     * Finally run the last cell titled "#GENERATE CELL" to start generating your Gaussian splat
     * **IMPORTANT!** You may have to regularly click anywhere on the notebook page to stop the session from disconnecting due to inactivity
     * <img src="media/disconnected.png" height="200">
-*  **Step 7: Download Point Cloud**
+*  **Step 7: Check it working correctly**
+*  If while running you see a lot of lines that say "Termination : No convergence" then that might be an indication something has gone wrong, and it is suggested you start again checking you completed the steps above carfully
+*  If it says "Termination : convergence" monstly then that good.
+*  During the training process you will see a line at the bottom that says "Training Progress: 1% 430/30000..." this will give you an indication of how much of the training process is left
+*  The training is completed when it says "100%" and says 30000/30000, however at 23% and 7000/30000 it will save a lower quality quick version that you can download and check
+*  **Step 7=8: Download Point Cloud**
     * Find and download the point cloud to your computer from /content/gaussian-splatting/nerf1/output/502acfe6-5/point_cloud/iteration_30000/point_cloud.ply
-    * View it using [Viewer Website](https://antimatter15.com/splat/) and by dragging and dropping the point cloud into the webpage viewer
+    * Right-click the three dots next to it and click download
+    * Take note it may take a while for it to download and the blue progress circle to complete
+    * It is also suggested that you change the name of the "point_cloud.ply" as soon as it is downloaded to avoid confusion later on 
+    * View and edit it using [Gaussian Splatting Editor](https://playcanvas.com/supersplat/editor)
+    * Or view it using [Gaussian Splatting Viewer](https://antimatter15.com/splat/) and by dragging and dropping the point cloud into the webpage viewer
 
 
 
