@@ -58,7 +58,7 @@ To ensure your images are correctly formatted for the Gaussian Splatting process
 *   **Step 4: Adjust Export Settings**
     
     *   In Premiere Pro, set the export resolution to 980x545 pixels, which is optimal for the Gaussian Splatting process.
-    *   Make sure the image for mat says .jpg
+    *   Make sure the image format says .jpg
 *   **Step 5: Naming Convention**
     
     *   Establish a precise naming system for your images. Start with “00001” and increase sequentially, making sure each name consists of 5 digits to maintain order.
