@@ -132,7 +132,7 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
 *  <img src="media/good.PNG" height="100">
 *  During the training process you will see a line at the bottom that says "Training Progress: 1% 430/30000..." this will give you an indication of how much of the training process is left
 *  The training is completed when it says "100%" and says 30000/30000, however at 23% and 7000/30000 it will save a lower quality quick version that you can download and check
-*  <img src="media/started.PNG" height="200"><img src="media/finished.PNG" height="200">
+*  <img src="media/started.PNG" height="200"><img src="media/finished.PNG" height="400">
 *  **Step 8: Download Point Cloud**
     * Find and download the point cloud to your computer from /content/gaussian-splatting/nerf1/output/502acfe6-5/point_cloud/iteration_30000/point_cloud.ply
     * Right-click the three dots next to it and click download
