@@ -154,6 +154,26 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
  
 
 <img src="media/chair.png" height="500">
+<img src="media/Dalek1.PNG" height="500">
+<img src="media/Dalek2.PNG" height="500">
+<img src="media/Dalek3.PNG" height="500">
+<img src="media/Person1.PNG" height="500">
+<img src="media/Person2.PNG" height="500">
+<img src="media/Person3.PNG" height="500">
+<img src="media/PooleGatewayDesk1.PNG" height="500">
+<img src="media/PooleGatewayDesk2.PNG" height="500">
+<img src="media/PooleGatewayDesk3.PNG" height="500">
+<img src="media/Suitecase1.PNG" height="500">
+<img src="media/Suitecase3.PNG" height="500">
+<img src="media/Suitecase2.PNG" height="500">
+<img src="media/Suitecase4.PNG" height="500">
+<img src="media/Table1.PNG" height="500">
+<img src="media/Table2.PNG" height="500">
+<img src="media/Table3.PNG" height="500">
+<img src="media/Table4.PNG" height="500">
+<img src="media/YuDesk1.PNG" height="500">
+<img src="media/YuDesk2.PNG" height="500">
+<img src="media/YuDesk3.PNG" height="500">
 
 
 
