@@ -4,7 +4,9 @@ A guide on how to create Gaussian Splats for real-time applications
 Special thanks to my supervisor Hongchuan Yu 
 
 ![](suitcasesmall.gif)
+<br>
 <img src="media/GaussianSplatting.png" height="350">
+<br>
 
 
 
