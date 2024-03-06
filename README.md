@@ -150,9 +150,9 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
 
 
 ## Demo Video of Results
-[Watch on YouTube]("https://youtu.be/jjLMmTkjSHk?si=6JiZsKZV7QIY5a5o") <br>
+[Watch on YouTube]("https://www.youtube.com/watch?v=qqaL0goVCLU&ab_channel=XanderWiles") <br>
 <br>
-[![Custom Thumbnail](https://github.com/Xarnder/GaussianSplatGuide/raw/main/media/Guassian%20Splat%2012.PNG)](https://youtu.be/jjLMmTkjSHk?si=6JiZsKZV7QIY5a5o)
+[![Custom Thumbnail](https://github.com/Xarnder/GaussianSplatGuide/raw/main/media/Guassian%20Splat%2012.PNG)](https://www.youtube.com/watch?v=qqaL0goVCLU&ab_channel=XanderWiles)
 
 
 scene credit: Bournemouth University Poole Gateway Desk [Bournemouth University NCCA](https://www.bournemouth.ac.uk/)
