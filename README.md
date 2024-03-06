@@ -3,7 +3,7 @@ A guide on how to create Gaussian Splats for real-time applications
 
 Special thanks to my supervisor Hongchuan Yu 
 
-![](suitcasesmall.gif)
+![](GaussianSculpture.gif)
 <br>
 <img src="media/GaussianSplatting.png" height="350">
 <br>
@@ -143,6 +143,11 @@ zip_file_name = 'youZipNameHere.zip'  # Name of the zip file
     * It is also suggested that you change the name of the "point_cloud.ply" as soon as it is downloaded to avoid confusion later on 
     * View and edit it using [Gaussian Splatting Editor](https://playcanvas.com/supersplat/editor)
     * Or view it using [Gaussian Splatting Viewer](https://antimatter15.com/splat/) and by dragging and dropping the point cloud into the webpage viewer
+ 
+
+<br>
+<br>
+![](suitcasesmall.gif)
  
 
 <img src="media/chair.png" height="500">
